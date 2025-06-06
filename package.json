@@ -1,5 +1,5 @@
 {
-  "name": "mcp-tutorial-webpage",
+  "name": "mcp-live-tutorial",
   "version": "0.2.0",
   "description": "Educational website for Model Context Protocol (MCP) Server development",
   "main": "server.js",

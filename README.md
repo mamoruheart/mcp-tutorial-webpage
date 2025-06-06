@@ -1,10 +1,10 @@
-# mcp-tutorial-webpage
+# mcp-live-tutorial
 
 > An interactive web tutorial for learning how to build MCP servers 🚀
 
 This educational website provides step-by-step guidance for implementing and understanding MCP servers.
 
-![MCP Web Tutorial](/public/image.png)
+![MCP Live Tutorial](/public/image.png)
 
 ## Prerequisites 📋
 
